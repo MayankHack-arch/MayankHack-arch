@@ -28,5 +28,3 @@ With a strong foundation in HTML, CSS, JavaScript, and Python, I've developed ex
 - Phone: +919416897857
 
 Feel free to reach out to me for collaborations, project ideas, or just to chat about programming and cybersecurity!
-
-Let me know if you'd like me to make any changes!
