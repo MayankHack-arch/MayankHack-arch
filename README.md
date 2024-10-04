@@ -1,30 +1,28 @@
-*Mayank*
+Hi, I'm Mayank!
 
-*Introduction*
+I'm a Mechanical Engineering diploma student with a strong passion for programming, cybersecurity, and debugging.
+📚 About Me
 
-I'm Mayank, a Mechanical Engineering diploma student with a passion for programming, cybersecurity, and debugging.
+With a solid foundation in JavaScript, Node.js, Express.js, React.js, and Python, I have developed expertise in:
+      
+    🐞 Debugging complex issues
+    🔐 Utilizing tools like Burp Suite and Nmap for security testing
+    📝 Writing high-quality, full-fledged code for fully secure and functional website development
 
-*About Me*
+🚀 Projects
 
-With a strong foundation in HTML, CSS, JavaScript, and Python, I've developed expertise in:
+    -Explore more projects in my repositories!
+    -Guess the Country Game: A web-based game built with HTML, CSS, and JavaScript.
+    -Tracker App: A friend group tracker app with authorization and authentication (ongoing)
 
-- Debugging complex issues
-- Utilizing Burp Suite and Nmap for security testing
-- Proficient in Metasploit framework
+🛠️ Skills
 
-*Projects*
+    -Programming Languages: HTML, CSS, JavaScript (Node.js, Express.js, React.js), Python
+    -Cybersecurity Tools: Burp Suite, Nmap, Metasploit, Postman
+    -Specialization: Debugging, MongoDB expertise
 
-- *Guess the Country Game*: A web-based game built with HTML, CSS, and JS (link unavailable)
+📬 Contact
+email: vashishthmayank9@gmail.com (yug8566@gmail.com)
+phone: +91 9416897857
 
-*Skills*
-
-- Programming languages: HTML, CSS, JavaScript, Python
-- Cybersecurity tools: Burp Suite, Nmap, Metasploit
-- Debugging expert
-
-*Contact*
-
-- Email: mailto:yug8566@gmail.com
-- Phone: +919416897857
-
-Feel free to reach out to me for collaborations, project ideas, or just to chat about programming and cybersecurity!
+Feel free to reach out for collaborations, project ideas, or just to discuss about programming and cybersecurity!
